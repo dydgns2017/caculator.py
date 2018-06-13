@@ -6,8 +6,8 @@
 
 ## setup
 
-'''
+```
 git clone 'https://github.com/dydgns2017/caculator.py.git' 
 cp ./calc.desktop cp $HOME/Desktop/
-'''
+```
 
