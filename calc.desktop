@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TESTcalc
+Path=$HOME/caculator.py/
+Exec=python3 /home/pi/caculator.py/calc.py
+Icon=python
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupNotify=true
